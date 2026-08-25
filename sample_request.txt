@@ -1,0 +1,6 @@
+GET /search?q=../admin HTTP/1.1
+Host: example.test
+Cookie: session=demo-session
+Origin: null
+Authorization: Basic ZGVtbzpwYXNz
+X-Powered-By: DemoServer/1.0
